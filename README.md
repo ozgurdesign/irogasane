@@ -17,10 +17,7 @@ Palettes hold up to 12 colours, save as you go, and export as ASE, SVG or CSS.
 
 ## Download
 
-Each release has two disk images. Pick the one for your Mac.
-
-- `Irogasane-1.0.dmg` for macOS 26 and later.
-- `Irogasane-1.0-macOS15.5.dmg` for macOS 15.5 Sequoia and later.
+Each release has one disk image, `Irogasane-<version>.dmg`, for macOS 15.5 Sequoia and later.
 
 The "Source code" links GitHub adds to every release only contain this README and the licence. The app is the `.dmg`.
 
