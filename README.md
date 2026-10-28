@@ -1,6 +1,6 @@
 # Irogasane
 
-A calm Mac app for building colour palettes.
+A Mac app for building colour palettes.
 
 **[Download the latest version](https://github.com/ozgurdesign/irogasane/releases/latest)** · [irogasane.com](https://irogasane.com)
 
